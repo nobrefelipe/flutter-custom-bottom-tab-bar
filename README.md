@@ -4,7 +4,7 @@ Custom tab bar for flutter
 
 ## Inspired by
 
-![alt text](https://im.ezgif.com/tmp/ezgif-1-047e595c070a.gif "Tab bar")
+![alt text](https://res.cloudinary.com/flavy/image/upload/v1563615075/ezgif-1-047e595c070a_dspruz.gif "Tab bar")
 
 
 ## Getting Started
