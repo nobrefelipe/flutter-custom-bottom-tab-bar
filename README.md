@@ -1,6 +1,11 @@
 # bottom_bar_animation
 
-A new Flutter project.
+Custom tab bar for flutter
+
+## Inspired by
+
+![alt text](https://im.ezgif.com/tmp/ezgif-1-047e595c070a.gif "Tab bar")
+
 
 ## Getting Started
 
